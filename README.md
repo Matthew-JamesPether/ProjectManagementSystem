@@ -1,1 +1,29 @@
 # ProjectManagementSystem
+
+Developed a project management system with java and mySQL. It allows the user to enter a new project and stores the information into a mySql dataBase. The info that gets stored is the project number, project name, the type of building, the physical address, the EFR number, the due date, if the project is finalised, the total cost of the project and the cost that has been paid to date. This info gets stored into a projects table and a project_costs table. The program also stores information about the team members that will be assigned to a project (structural engineer, contractor, architect, customer). The info that gets stored is thier id number, name, surname, physical address, phone number, and email address. This info gets stored in the tables structural_engineer, contractor, architect and customer. The program also uses a project_ids table which stores the project number with corresponding members id number. When creating a project you can either assign an existing team member or create a new one. The program will also allow the user to search a project with the project number or name and they can either update the info, delete the project or finalise it. The user can also display all the unfinalised projects, the overdue projects and all projects with the assigned team members.
+
+## Table of Content
+* Heading
+* Table of Content
+* Installation
+* Usage
+* Credit
+
+  ### Installation
+1. Select the green Code button on the main repository page.
+1. Select Download ZIP.
+1. Open zip file (may need to download a file archiver, 7-Zip is a free file archiver).
+1. Move the file inside zip file to a file of your choosing.
+1. Open Your IDE (may need to download a IDE such as eclipse)
+1. Open the downloaded file and drag the project inside the file into your package explorer inside the IDE
+1. Click on the arrow next to your project
+1. Click on the arrow next to src
+1. Click on the arrow next to default package
+1. Select the Main.jave file and select run
+
+### Usage
+A ScreenShot of how to run the file
+
+### Credit
+* [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
+* [HyperionDevelopment Mentors](https://www.hyperiondev.com/)
