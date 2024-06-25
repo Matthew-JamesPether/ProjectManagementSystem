@@ -23,7 +23,40 @@ Developed a project management system with java and mySQL. It allows the user to
 
 ### Usage
 A ScreenShot of how to run the file and where to input the values
-![Screenshot (1)](ProjectManagementSystem ScreenShots/Screenshot(1).png)
+![ProjectManagementSystem ScreenShots/Screenshot(1).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(1).png)
+
+A ScreenShot of how to select (Enter new project) and how to select an existing team member
+![ProjectManagementSystem ScreenShots/Screenshot(2).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(2).png)
+
+A ScreenShot of how to create a new team member
+![ProjectManagementSystem ScreenShots/Screenshot(3).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(3).png)
+
+A ScreenShot of how to create a new project
+![ProjectManagementSystem ScreenShots/Screenshot(4).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(4).png)
+
+A ScreenShot of how to search for a project
+![ProjectManagementSystem ScreenShots/Screenshot(5).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(5).png)
+
+A ScreenShot of how to update the searched project
+![ProjectManagementSystem ScreenShots/Screenshot(6).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(6).png)
+
+A ScreenShot of how to finalise a project
+![ProjectManagementSystem ScreenShots/Screenshot(7).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(7).png)
+
+A ScreenShot of how to delete a project
+![ProjectManagementSystem ScreenShots/Screenshot(8).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(8).png)
+
+A ScreenSHot of how to display all unfinalised projects
+![ProjectManagementSystem ScreenShots/Screenshot(9).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(9).png)
+
+A ScreenShot of how to display all overdue projects
+![ProjectManagementSystem ScreenShots/Screenshot(10).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(10).png)
+
+A ScreenShot of how to display all projects with the assigned team members
+![ProjectManagementSystem ScreenShots/Screenshot(11).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(11).png)
+
+A ScreenShot of how to exit the program
+![ProjectManagementSystem ScreenShots/Screenshot(12).png](https://github.com/Matthew-JamesPether/ProjectManagementSystem/blob/main/ProjectManagerSystem/ProjectManagementSystem%20ScreenShots/Screenshot%20(12).png)
 
 ### Credit
 * [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
