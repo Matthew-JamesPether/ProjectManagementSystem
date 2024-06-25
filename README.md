@@ -22,7 +22,8 @@ Developed a project management system with java and mySQL. It allows the user to
 1. Select the Main.jave file and select run
 
 ### Usage
-A ScreenShot of how to run the file
+A ScreenShot of how to run the file and where to input the values
+![Screenshot (1)](ProjectManagementSystem ScreenShots/Screenshot(1).png)
 
 ### Credit
 * [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
